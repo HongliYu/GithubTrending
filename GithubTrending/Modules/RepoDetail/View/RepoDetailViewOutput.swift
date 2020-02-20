@@ -1,0 +1,5 @@
+protocol RepoDetailViewOutput {
+
+    func viewIsReady()
+
+}

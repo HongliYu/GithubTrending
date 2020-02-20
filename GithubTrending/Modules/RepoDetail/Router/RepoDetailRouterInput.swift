@@ -1,0 +1,5 @@
+protocol RepoDetailRouterInput {
+
+    func goBack()
+
+}

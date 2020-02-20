@@ -1,0 +1,29 @@
+PODS:
+  - PKHUD (5.3.0)
+  - SwiftLint (0.38.2)
+  - XCTest-Gherkin (0.19.1):
+    - XCTest-Gherkin/Core (= 0.19.1)
+  - XCTest-Gherkin/Core (0.19.1)
+  - XCTest-Gherkin/Native (0.19.1):
+    - XCTest-Gherkin/Core
+
+DEPENDENCIES:
+  - PKHUD (~> 5.3.0)
+  - SwiftLint (~> 0.38.2)
+  - XCTest-Gherkin (~> 0.19.1)
+  - XCTest-Gherkin/Native
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - PKHUD
+    - SwiftLint
+    - XCTest-Gherkin
+
+SPEC CHECKSUMS:
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  SwiftLint: 8f5d2f903e1c9bcbc832fd16771e80a263ac6cbb
+  XCTest-Gherkin: f7cb7e6407a9196fdef068aed0becc321ef0b812
+
+PODFILE CHECKSUM: e0e4633f4766d2c6b280d4b86b6aa9ce5e21523e
+
+COCOAPODS: 1.9.0.beta.2
