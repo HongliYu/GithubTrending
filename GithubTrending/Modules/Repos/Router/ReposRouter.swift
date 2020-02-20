@@ -9,7 +9,6 @@ final class ReposRouter: ReposRouterInput {
         let builder = RepoDetailModuleBuilder(urlString: urlString)
         let repoDetailViewController = builder.build()
 
-        viewController.title = ""
         viewController.navigationController?.pushViewController(repoDetailViewController,
                                                                 animated: true)
     }
